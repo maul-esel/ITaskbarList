@@ -14,19 +14,21 @@ They were entirely written by me, maul.esel, except for SetProgressState and Set
 
 ### Credits
 I want to thank...
-	- Lexikos for AHK_L / AHK v2 including class syntax and the work mentioned above
-	- Sean for his COM standard library which can be used to support AHK classic
+
+* Lexikos for AHK_L / AHK v2 including class syntax and the work mentioned above
+* Sean for his COM standard library which can be used to support AHK classic
 
 ### Feature highlights
-	- set taskbar progress values/states
-	- control the taskbar thumbnail of a window
-	- delete and restore the taskbar entry of any window
-	- and more...
+
+* set taskbar progress values/states
+* control the taskbar thumbnail of a window
+* delete and restore the taskbar entry of any window
+* and more...
 
 ### License
 This work is licensed under [LGPL](http://www.gnu.org/licenses/lgpl.html).
 
 ### Documentation
-- The classes documentation is available in the COM Classes Project (see Note above).
-- The library documentation is available [here](http://maul-esel.github.com/ITaskbarList/ITaskbarList.html).
+* The classes documentation is available in the COM Classes Project (see Note above).
+* The library documentation is available [here](http://maul-esel.github.com/ITaskbarList/ITaskbarList.html).
 
